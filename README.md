@@ -1,19 +1,25 @@
 ## Welcome to EOS BKK
+EOS BKk is a project and meetup for anyone interested in learning about the EOS blockchain.
 
-You can use the [editor on GitHub](https://github.com/eosbkk/start/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+การพบปะกับ EOS Bangkok ทำให้คุ้นเคยกับ EOS และเรียนรู้เกี่ยวกับเทคโนโลยี blockchain
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Meetup
 
-### Markdown
+EOS BKk meetups cover a wide range of EOS focused topics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![EOS BKK](https://secure.meetupstatic.com/photos/event/7/b/e/7/600_467311719.jpeg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To join the meetup group see [EOS Bangkok's Meetup page](https://meetup.com/eos-bangkok/).
 
-### Jekyll Themes
+### Schedule
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eosbkk/start/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Saturday March 10 
+
+Est.33
+1420/1 Pradit Manutham Road, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240
+02 102 2096
+
+https://goo.gl/maps/BrGwwoNNo992
+
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
