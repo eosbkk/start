@@ -14,12 +14,15 @@ To join the meetup group see [EOS Bangkok's Meetup page](https://meetup.com/eos-
 ### Schedule
 
 Saturday March 10
+
 Invite only arrival between 6 - 7 pm
 
-Venue: Est.33 1420/1 Pradit Manutham Road,
+Venue: Est.33 Crystal Design Center CDC
+
+1420/1 Pradit Manutham Road,
 Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240
 
-![Google Map for Venue](https://goo.gl/maps/BrGwwoNNo992)
+[Google Map for Venue](https://goo.gl/maps/BrGwwoNNo992)
 
 
 ### Support or Contact
