@@ -13,13 +13,13 @@ To join the meetup group see [EOS Bangkok's Meetup page](https://meetup.com/eos-
 
 ### Schedule
 
-Saturday March 10 
+Saturday March 10
+Invite only arrival between 6 - 7 pm
 
-Est.33
-1420/1 Pradit Manutham Road, Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240
-02 102 2096
+Venue: Est.33 1420/1 Pradit Manutham Road,
+Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240
 
-https://goo.gl/maps/BrGwwoNNo992
+![Google Map for Venue](https://goo.gl/maps/BrGwwoNNo992)
 
 
 ### Support or Contact
