@@ -13,6 +13,19 @@ To join the meetup group see [EOS Bangkok's Meetup page](https://meetup.com/eos-
 
 ### Schedule
 
+Saturday March 17
+
+Invite only arrival between 7 - 8 pm
+
+Venue:  Wishbeer Home Bar - Craft Beer Bar
+
+Soi Sukhumvit 67, Khwaeng Phra Khanong Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110
+
+[Google Map for Venue](https://goo.gl/maps/H2XiTsgqcC32)
+
+
+### Past Meetups
+
 Saturday March 10
 
 Invite only arrival between 6 - 7 pm
