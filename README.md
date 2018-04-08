@@ -26,9 +26,6 @@ Venue:  Satoshi Square - The Clubhouse Sports Bar & Grill
 
 https://www.google.com/maps/search/?api=1&query=21%2F1-3+Soi+Sukhumvit+23%2C++Khwaeng+Khlong+Toei%2C+Bangkok%2C+th
 
-Soi Sukhumvit 67, Khwaeng Phra Khanong Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110
-
-[Google Map for Venue](https://goo.gl/maps/H2XiTsgqcC32)
 
 
 ### Past Meetups
