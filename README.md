@@ -18,13 +18,13 @@ Monday April 9th
 Open event arrival between 6.30 - 7.00 pm
 
 For details and to attend see
-https://www.meetup.com/Bangkok-Satoshi-Square/events/249356345/
+[Bangkok Satoshi Square](https://www.meetup.com/Bangkok-Satoshi-Square/events/249356345/)
 
 Venue:  Satoshi Square - The Clubhouse Sports Bar & Grill
 
 21/1-3 Soi Sukhumvit 23, Khwaeng Khlong Toei · Bangkok
 
-https://www.google.com/maps/search/?api=1&query=21%2F1-3+Soi+Sukhumvit+23%2C++Khwaeng+Khlong+Toei%2C+Bangkok%2C+th
+[Google Map for Venue](https://www.google.com/maps/search/?api=1&query=21%2F1-3+Soi+Sukhumvit+23%2C++Khwaeng+Khlong+Toei%2C+Bangkok%2C+th)
 
 
 
