@@ -54,3 +54,11 @@ Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240
 
 
 ### Support or Contact
+
+Telegram: [t.me/eosbkk](https://t.me/eosbangkok)
+
+[invitelink](https://t.me/joinchat/Gziy-0hSnKRrwXvZJjnesA)
+ 
+Twitter: @eosbangkok
+
+
