@@ -13,6 +13,14 @@ To join the meetup group see [EOS Bangkok's Meetup page](https://meetup.com/eos-
 
 ### Schedule
 
+2nd July tbc (see group meetup page)
+
+### Past Meetups
+
+Friday June 1st
+
+Open even @ The Street Rachada (see meetup page)
+
 Monday April 9th
 
 Open event arrival between 6.30 - 7.00 pm
@@ -26,9 +34,6 @@ Venue:  Satoshi Square - The Clubhouse Sports Bar & Grill
 
 [Google Map for Venue](https://www.google.com/maps/search/?api=1&query=21%2F1-3+Soi+Sukhumvit+23%2C++Khwaeng+Khlong+Toei%2C+Bangkok%2C+th)
 
-
-
-### Past Meetups
 
 Saturday March 17
 
@@ -55,10 +60,9 @@ Khwaeng Khlong Chan, Khet Bang Kapi, Krung Thep Maha Nakhon 10240
 
 ### Support or Contact
 
-Telegram: [t.me/eosbkk](https://t.me/eosbangkok)
-
+Telegram:
 [invitelink](https://t.me/joinchat/Gziy-0hSnKRrwXvZJjnesA)
  
-Twitter: @eosbangkok
+Twitter: @eos4us
 
 
